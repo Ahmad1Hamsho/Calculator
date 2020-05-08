@@ -3,7 +3,7 @@ body {
 }
 .calculator {
   font-size: 1.2em;
-  width: 15%;
+  width: 21vw;
   float: left;
   position: absolute;
   left: 40%;
